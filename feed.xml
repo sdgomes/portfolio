@@ -1,17 +1,18 @@
-<?xml version=”1.0″?>
-<rss version=”2.0″>
- <entry>
- <id>https://www.example.com/feed/item/100/</id>
- <pubDate>2018-11-09T07:47:25Z</pubDate>
- <updated>2018-11-23T04:57:42Z</updated>
- <link rel="alternate" type="text/html" href="https://sdgomes.github.io/site/"/>
- <title>Example Feed Content Item 100</title>
- <content type="html">
- <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus dui ligula.</p>]]>
- </content>
- <category term="11" label="Dummy Content"/>
- <author>
- <name>Example Feed Content</name>
- </author>
- </entry>
-</rss>
+<? xml version = "1.0" encoding = "utf-8"?> 
+<rss  version = "2.0" > 
+<channel> 
+<title>Títulodoseufeed</title> 
+<link>http://www.yourwebsite.com/</link> 
+<description> Esta é a descrição do seu feed.
+Mantenha-o em uma ou duas frases. </description>
+ 
+ <item> 
+<title> Título do conteúdo </title> 
+<link>https://sdgomes.github.io/site/</link> 
+<guid>https://sdgomes.github.io/site/</guid> 
+<pubDate> Quarta-feira, 27 de novembro de 2013 15:17:32 GMT
+(Nota: a data deve estar neste formato) </pubDate> 
+<descrição> Descrição do seu conteúdo. </description> 
+</item>
+ </channel>
+ </rss>
