@@ -1,7 +1,5 @@
 ## Profissional e Pessoal
 
-[========]
-
 - Este é um repositório que contem meus projetos pessoais e profissionais, para apreciação e apresentação.
 
 #### Acesse
