@@ -12,5 +12,12 @@
 <pubDate>Quarta-feira, 27 de novembro de 2013 15:17:32 GMT</pubDate> 
 <description>Descrição do seu conteúdo.</description> 
 </item>
+ <item> 
+<title> Título do conteúdo </title> 
+<link>https://sdgomes.github.io/site/</link> 
+<guid>https://sdgomes.github.io/site/</guid> 
+<pubDate>Quarta-feira, 27 de novembro de 2013 15:17:32 GMT</pubDate> 
+<description>Descrição do seu conteúdo.</description> 
+</item>
  </channel>
  </rss>
