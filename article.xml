@@ -1,0 +1,35 @@
+<LAYER>
+    <TITLEH2>
+        Smart Landing Theme &amp; Templates 
+    </TITLEH2>
+    <IMAGELIST>
+        <DATASRC>https://themes.pixelwars.org/cvcard-wp/wp-content/uploads/2014/04/single-05.png</DATASRC>
+    </IMAGELIST>
+    <IMAGELIST>
+        <DATASRC>https://themes.pixelwars.org/cvcard-wp/wp-content/uploads/2014/04/single-07.png</DATASRC>
+    </IMAGELIST>
+    <DESCRIPTION>
+        DESCRIPTION
+    </DESCRIPTION>
+    <TEXTABOUT>
+        <P>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.</P>
+    </TEXTABOUT>
+    <TEXTABOUT>
+        <P>Established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</P>
+    </TEXTABOUT>
+    <CLIENT>Apple Inc.</CLIENT>
+    <TECHNOLOGY>
+        <TAG>HTML 5</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>CSS 3</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>JQUERY</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>RESPONSIVE DESIGN</TAG>
+    </TECHNOLOGY>
+    <PROJECTHREF>#</PROJECTHREF>
+    <PROJECTSTATUS>See Working</PROJECTSTATUS>
+</LAYER>

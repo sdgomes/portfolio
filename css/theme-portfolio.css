@@ -1,0 +1,129 @@
+.layer-portfolio {
+    display: block;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: #fff;
+}
+
+.content-container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em 0 2.5em 0;
+    max-width: 1440px;
+}
+
+.content-container>header>div>h2 {
+    font-weight: 800;
+}
+
+@media (min-width: 576px) {
+    .content-container {
+        padding: 3em 0 2.5em 0;
+        width: 80%;
+    }
+}
+
+@media (min-width: 992px) {
+    .content-container {
+        width: 90%;
+    }
+}
+
+.layer-close {
+    display: block;
+    width: max-content;
+}
+
+.layer-close i {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    line-height: 33px;
+    width: 60px;
+    height: 60px;
+    font-size: 18px;
+    color: white;
+    background: var(--focoltone);
+    border: 3px solid var(--focoltone);
+    cursor: pointer;
+    border-radius: 50%;
+    -webkit-transition: color 0.1s, background-color .2s, border-color .2s;
+    transition: color 0.1s, background-color .2s, border-color .2s;
+}
+
+.layer-close i:hover {
+    background: var(--danger);
+    border: 3px solid var(--danger);
+}
+
+.description-side {
+    padding-bottom: 2em;
+}
+
+.description-side h3 {
+    margin: 0 0 .6em 0;
+    font-size: 13px;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: var(--mauve);
+}
+
+.description-side p {
+    margin: 0 0 1.2em;
+}
+
+.tech-tag {
+    margin: 0 0 1em 0;
+    padding: 5px;
+    list-style: none;
+}
+
+.tech-tag li {
+    display: inline-block;
+}
+
+.tech-tag li a {
+    display: inline-block;
+    line-height: 30px;
+    font-size: 12px;
+    position: relative;
+    margin: 0 14px 8px 6px;
+    padding: 0 10px 0 12px;
+    background: var(--orchid);
+    text-transform: uppercase;
+    color: var(--behr);
+    pointer-events: none;
+    border-radius: 0 2px 2px 0;
+}
+
+.tech-tag li a:before {
+    content: "";
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: -11px;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-right-color: var(--orchid);
+    border-style: solid;
+    border-width: 15px 11px 15px 0;
+}
+
+.tech-tag li a:after {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 0;
+    float: left;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #fff;
+}
