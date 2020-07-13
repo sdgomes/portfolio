@@ -1,0 +1,41 @@
+<LAYER>
+    <TITLEH2>
+        Smart Landing Theme &amp; Templates 
+    </TITLEH2>
+    <IMAGELIST>
+        <DATASRC>./img/_design_portfolio_mobile.png</DATASRC>
+    </IMAGELIST>
+    <IMAGELIST>
+        <DATASRC>./img/_design_portfolio_tablet.png</DATASRC>
+    </IMAGELIST>
+    <IMAGELIST>
+        <DATASRC>./img/_design_portfolio_desktop.png</DATASRC>
+    </IMAGELIST>
+    <DESCRIPTION>
+        DESCRIPTION
+    </DESCRIPTION>
+    <TEXTABOUT>
+        <P>A developed landing page, with the best technologies on the market and adaptable for all types of screens. A page that will promote the popularity of your business and help to leverage your number of customers.</P>
+    </TEXTABOUT>
+    <TEXTABOUT>
+        <P>Fully customizable and easy to maintain, with the style sheet separated by sass component it is easier to know where to change each element. The latest version of jQuery animates the page in a simple and satisfying way for the eyes. Don't waste more time get yours now.</P>
+    </TEXTABOUT>
+    <CLIENT>Available for purchase at Envato Marketing.</CLIENT>
+    <TECHNOLOGY>
+        <TAG>HTML 5</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>CSS 3</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>JQUERY</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>RESPONSIVE DESIGN</TAG>
+    </TECHNOLOGY>
+    <TECHNOLOGY>
+        <TAG>SASS</TAG>
+    </TECHNOLOGY>
+    <PROJECTHREF>#</PROJECTHREF>
+    <PROJECTSTATUS>See Working</PROJECTSTATUS>
+</LAYER>
